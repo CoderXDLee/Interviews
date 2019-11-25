@@ -13,8 +13,5 @@
   * [4 - UI 卡顿掉帧](ios-interview/untitled/4-ui-ka-dun-diao-zhen.md)
   * [5 - UI 视图绘制原理与异步绘制](ios-interview/untitled/5-ui-shi-tu-hui-zhi-yuan-li-yu-yi-bu-hui-zhi.md)
   * [6 - 离屏渲染](ios-interview/untitled/6-li-ping-xuan-ran.md)
-
-## OC语言特性相关
-
-* [Untitled](oc-yu-yan-te-xing-xiang-guan/untitled.md)
+* [OC语言特性相关](oc-yu-yan-te-xing-xiang-guan.md)
 
