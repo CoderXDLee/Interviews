@@ -12,5 +12,5 @@ let identifier = "cell"
 tableView.dequeueReusableCell(withIdentifier: identifier)
 ```
 
-
+众所周知，以上两段代码实际上就使用了 `UITableView` 的重用机制。
 
